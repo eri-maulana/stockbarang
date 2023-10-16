@@ -1,2 +1,2 @@
 # stockbarang
-program stock barang 'putri narila'
+Aplikasi stockbarang 'putri narila'
